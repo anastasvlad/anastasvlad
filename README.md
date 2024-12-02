@@ -24,13 +24,13 @@
 ---
 
 ### :woman_technologist: About Me : 
-- :bar_chart: I’m a Data and BI Analyst with a background in project management, transitioning into data analytics.
+- :bar_chart: Работаю над тем, чтобы стать крутым BI-аналитиком. У меня есть большой опыт управления проектами.  Я люблю цифры, таблицы и графики
 
-- :seedling: Recently completed courses in Python, SQL, and BI tools, focusing on building dashboards and analyzing data.
+- :seedling: Недавно закончила обучение по Python, SQL и BI с упором на анализ данных и создание дашбордов
 
-- :zap: In my free time, I improve my skills, explore new tools and techniques.
+- :zap: В свободное время я совершенствую свои навыки, изучаю новые инструменты и техники.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-tttulip-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tttulip)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tttulip-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tttulip)
 
 ---
 
